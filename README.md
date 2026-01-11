@@ -9,22 +9,18 @@
 ## 🧑‍💻 About Me
 Hi there! 👋  
 I’m an enthusiastic IT undergraduate with a strong interest in full-stack web development and UI/UX design. I enjoy building scalable, user-friendly applications and continuously learning new technologies to solve real-world problems.
-
 ---
-
 ## 💡 What I Do
 - 🌐 Build full-stack web applications using **React, Node.js, Express**
 - 🎨 Design intuitive and user-friendly interfaces using **Figma**
 - 🗄️ Work with databases like **MongoDB** and **MySQL**
 - 🔧 Develop RESTful APIs and apply MVC architecture
 - 🤝 Collaborate on team-based projects following SDLC principles
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML, CSS, JavaScript (ES6+)
 - React.js, Next.js
 
 ### ⚙️ Backend
@@ -54,25 +50,19 @@ I’m an enthusiastic IT undergraduate with a strong interest in full-stack web 
 
 - 🎨 **UI/UX Redesign – Yarl Gifts Website**  
   High-fidelity interactive prototype designed using Figma
-
 ---
-
 ## 🎯 Currently Learning
 - Advanced React patterns
 - Backend optimization & security
 - Mobile app development (Android)
 - Better UI/UX design practices
-
 ---
-
 ## 🌱 Career Goals
 - Become a skilled **Full-Stack Software Engineer**
 - Gain real-world industry experience through internships
 - Build impactful applications that improve everyday life
 - Contribute to open-source and collaborative projects
-
 ---
-
 ## 📫 Connect With Me
 - 📧 Email: **vishnavithavam@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/vishnavi-thavakkumar
